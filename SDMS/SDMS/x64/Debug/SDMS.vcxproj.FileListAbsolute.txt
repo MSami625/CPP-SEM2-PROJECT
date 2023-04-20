@@ -1,0 +1,5 @@
+C:\Users\shabe\Downloads\SDMS\SDMS\x64\Debug\SDMS.vcxproj.AssemblyReference.cache
+C:\Users\shabe\Downloads\SDMS\SDMS\x64\Debug\SDMS.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\shabe\Downloads\SDMS\SDMS\x64\Debug\SDMS.login.resources
+C:\Users\shabe\Downloads\SDMS\SDMS\x64\Debug\SDMS.Main.resources
+C:\Users\shabe\Downloads\SDMS\SDMS\x64\Debug\SDMS.vcxproj.GenerateResource.cache
